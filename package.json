@@ -1,0 +1,21 @@
+{
+  "name": "hikari-snippets",
+  "displayName": "hikari-snippets",
+  "description": "Simple Hikari & Lightbulb code snippet generator",
+  "version": "0.0.1",
+  "publisher": "K.M Ahnaf Zamil",
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "python",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
