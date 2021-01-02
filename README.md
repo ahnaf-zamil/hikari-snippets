@@ -1,6 +1,6 @@
 # Hikari & Lightbulb Snippets
 
-A simple VScode extensions for hikari code snippets.
+A simple VScode extensions for Hikari & Lightbulb code snippets.
 
 Hikari is a lightweight bot library made for Python. [Link](https://github.com/hikari-py/hikari)
 
